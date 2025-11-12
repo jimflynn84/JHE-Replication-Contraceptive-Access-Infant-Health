@@ -13,10 +13,8 @@ Data Source - NCHS linked cohort birth and infant death records, 2002–2013.
 		
 Computational requirements
 Software Requirements
-•	Stata (code was last run with version 16.1)
-–	reghdfe, sdid and synth (last run 11-08-2025)
-•	R (code was last run with version 4.3.1)
--	tidyverse, usmap, tidycensus, ggplot2, ggthemes (last run 11-11-2025)
+Stata (version 19) - reghdfe, sdid and synth (last run 11-08-2025)
+R (version 4.3.1) - tidyverse, usmap, tidycensus, ggplot2, ggthemes (last run 11-11-2025)
 
 Description of programs/code
 •	Programs are provided in the main folder in the replication kit. The programs should be ran in the order they appear.

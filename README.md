@@ -20,11 +20,7 @@ R (version 4.3.1) - tidyverse, usmap, tidycensus, ggplot2, ggthemes (last run 11
 
 Description of programs/code
 
-Programs are provided in the main folder in the replication kit. The programs should be ran in the order they appear.
-
-The plots/ directory store results figures.
-
-The tables/ directory stores tables. 
+Programs are provided in the main folder in the replication kit. The programs should be ran in the order they appear. The plots/ directory store results figures. The tables/ directory stores tables. 
 
 References
 

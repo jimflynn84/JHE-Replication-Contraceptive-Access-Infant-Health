@@ -1,18 +1,14 @@
 # JHE-Replication-Contraceptive-Access-Infant-Health
 Replication package for "Contraceptive Access and Infant Health Outcomes"
 
-Overview
-The code in this replication package provides instructions for replicating all the tables and figures included in Flynn (2025) using Stata and R. All Tables and Figures require obtaining restricted-use vital records from the National Center for Health Statistics, as outlined below, but can be replicated with the code provided once users have obtained these data. I provide instructions for requesting these data below.
+Overview - The code in this replication package provides instructions for replicating all the tables and figures included in Flynn (2025) using Stata and R. All Tables and Figures require obtaining restricted-use vital records from the National Center for Health Statistics, as outlined below, but can be replicated with the code provided once users have obtained these data. I provide instructions for requesting these data below.
 Data Availability and Provenance Statements
 
-Summary of Availability
-•	Data cannot be made publicly available. 
+Summary of Availability - Data cannot be made publicly available. 
 
-Details on each Data Source
-Data file(s) 	(Citation). Notes	Provided
-NCHS linked cohort birth and infant death records, 2002–2013. 
-	(CDC, 2002-2013). Data are restricted use. To request these data, follow the instructions available at: https://www.cdc.gov/nchs/nvss/nvss-restricted-data.htm. We obtained: “Linked Births/ Infant Deaths” for 2002 to 2013. Code to prepare the data after obtaining it are included in “01_raw_data_clean” and must be moved to the data folder and followed precisely to replicate all tables & figures that use deaths data. Details are available upon request from the corresponding author (flynnj@miamioh.edu). 
-No
+Data Source - NCHS linked cohort birth and infant death records, 2002–2013. 
+
+(CDC, 2002-2013). Data are restricted use. To request these data, follow the instructions available at: https://www.cdc.gov/nchs/nvss/nvss-restricted-data.htm. I obtained: “Linked Births/ Infant Deaths” for 2002 to 2013. Code to prepare the data after obtaining it are included in “01_raw_data_clean” and must be moved to the data folder and followed precisely to replicate all tables & figures that use deaths data. Details are available upon request from the corresponding author (flynnj@miamioh.edu). 
 		
 		
 Computational requirements
